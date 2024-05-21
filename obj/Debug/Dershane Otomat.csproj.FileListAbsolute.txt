@@ -1,0 +1,29 @@
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.form1.resources
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.Properties.Resources.resources
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\bin\Debug\Dershane Otomat.exe.config
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\bin\Debug\Dershane Otomat.exe
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\bin\Debug\Dershane Otomat.pdb
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.exe
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.pdb
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.Form2.resources
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.öğrenciler.resources
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.öğretmenler.resources
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.sınıflar.resources
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\bin\Debug\Dershane Otomat.exe.manifest
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\bin\Debug\Dershane Otomat.application
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.exe.manifest
+C:\Users\PC\source\repos\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.application
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.form1.resources
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.Form2.resources
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.Properties.Resources.resources
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.sınıflar.resources
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.öğrenciler.resources
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane_Otomat.öğretmenler.resources
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.exe
+C:\Users\PC\Desktop\Dershane Otomat\Dershane Otomat\obj\Debug\Dershane Otomat.pdb
